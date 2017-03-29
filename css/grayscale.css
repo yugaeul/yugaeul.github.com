@@ -223,7 +223,7 @@ a:focus {
 .download-section {
   width: 100%;
   padding: 50px 0;
-  color: white;
+  color: black;
   background: url(../img/download_new.jpg) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
